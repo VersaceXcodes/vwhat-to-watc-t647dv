@@ -1,2 +1,9 @@
-# vwhat-to-watc-t647dv
-Generated project for vwhat-to-watc
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately
+
+
+
+
+
+
